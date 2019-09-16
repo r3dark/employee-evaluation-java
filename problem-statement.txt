@@ -19,4 +19,4 @@ tagged “AVERAGE”.
 --> Sort the records based on the overall rating in the descending order, starting with the best performance
 to the on-track performance; and,
 --> Print all the employee names, the ratings obtained from Q1 through Q4, the overall ratings, and the
-performance indicators in a tabular format.
+performance indicators.
